@@ -1,4 +1,7 @@
 #!/usr/bin/python
+# USAGE:
+# python reduce-mp4-size.py filename.mp4
+
 import os, sys
 
 def resize(filename):
